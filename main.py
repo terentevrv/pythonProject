@@ -1,5 +1,5 @@
 import psycopg2
-123123
+
 # Параметры подключения к базе данных
 DATABASE_NAME = "cards"
 DATABASE_USER = "admin_bd"
